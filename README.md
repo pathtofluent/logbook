@@ -56,6 +56,16 @@ Your folder choice and TMDB key (if you add one) are kept in `~/.pathtofluent/lo
 python3 tests/test_logbook.py
 ```
 
+## The PathToFluent tools
+
+| Tool | What it does |
+|------|--------------|
+| [Trailblazer](https://github.com/pathtofluent/trailblazer) | Turns a video and its subtitles into an Anki deck |
+| [Waypoint](https://github.com/pathtofluent/waypoint) | Sorts sentence cards so the next one has exactly one unknown word |
+| [Checkpoint](https://github.com/pathtofluent/checkpoint) | A single Complete button for chapter and lesson cards |
+| [Scout](https://github.com/pathtofluent/scout) | Finds Netflix titles by country and original language |
+| [Logbook](https://github.com/pathtofluent/logbook) | Logs your time with a language and tracks hours, known words and milestones |
+
 ## Licence
 
 AGPL-3.0. See `LICENSE`.
